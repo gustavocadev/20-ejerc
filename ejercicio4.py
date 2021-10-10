@@ -10,3 +10,5 @@ salarioMensual = 1000
 comision = 150
 
 valorVentaCarro = 0.5
+
+#lacks
